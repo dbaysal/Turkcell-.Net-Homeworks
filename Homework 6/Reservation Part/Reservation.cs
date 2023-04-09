@@ -17,5 +17,6 @@ namespace Homework_6
         public DateTime ReservationDate { get; set; }
         public int NumberOfDays { get; set; }
         public bool IsReserved { get; set; }
+        
     }
 }
